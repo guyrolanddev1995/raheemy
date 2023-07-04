@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "331899348113",
+    "project_id": "raheemy-a149b",
+    "storage_bucket": "raheemy-a149b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331899348113:android:18530f183b4986a527cb30",
+        "android_client_info": {
+          "package_name": "com.raheemy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331899348113-j945hff1gl9imduumoe1nte03h672ih6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3k62HxdhfmMRZsK5RgIctFMo2_vyUzus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331899348113-j945hff1gl9imduumoe1nte03h672ih6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331899348113-11e9ft21k5l15k4l0k67v6gfrtu27ah4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.raheemy.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
